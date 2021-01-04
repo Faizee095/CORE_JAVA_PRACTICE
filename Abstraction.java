@@ -22,7 +22,4 @@ public class Abstraction {
     e1.show();
     e2.show();
   }
-  
-
-  
 }

@@ -1,3 +1,5 @@
+// this way we declare object and access it
+
 class Employee{
   String name;
   int salary;
