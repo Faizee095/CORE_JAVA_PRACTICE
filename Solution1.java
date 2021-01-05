@@ -101,3 +101,31 @@ public class Solution1{
         return items;
     }
 }
+
+
+
+// INPUT
+// 1002
+// Gulabjam
+// Sweet
+// 800
+// 1001
+// Gulabjam
+// Sweet
+// 700
+// 1003
+// Kalakandi
+// Sweet
+// 1100
+// 1004
+// MoongDal
+// Hot
+// 750
+// Sweet
+// Gulabjam
+
+// OUTPUT
+
+// 866
+// 1001
+// 1002
